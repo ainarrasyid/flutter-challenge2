@@ -1,0 +1,6 @@
+bricks:
+  hello: 0.1.0+1
+  starter:
+    git:
+      url: "https://github.com/wahyudotdev/fluttercore.git"
+      path: starter

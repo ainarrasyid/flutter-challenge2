@@ -1,0 +1,49 @@
+{
+    "app_name" : "My Note",
+    "cancel":"Cancel",
+    "home":"Home",
+    "hint_title":"Title",
+    "hint_content":"Content",
+    "home":"Home",
+    "label_edited_at":"Edited At {time}",
+    "@label_edited_at" : {
+        "placeholders" : {
+            "time" : {
+                "type" : "String",
+                "example" : "00.00"
+            }
+        }
+    },
+    "label_error_no_picture_found" : "New picture not found",
+    "label_error_field_empty" : "{field} can't empty",
+    "@label_error_field_empty" : {
+        "placeholders" : {
+            "field" : {
+                "type" : "String",
+                "example" : "Name"
+            }
+        }
+    },
+    "label_name" : "Name",
+    "label_save" : "Save",
+    "label_error_get_user" : "Can't get user",
+    "label_username" : "Username",
+    "label_register" : "Register",
+    "label_error_empty_form" : "Form can't empty",
+    "label_error_password_not_match" : "Password not match",
+    "label_error_empty" : "Can't empty",
+    "label_email" : "Email",
+    "label_logout" : "Logout",
+    "label_find_notes" : "Find notes",
+    "label_empty_notes" : "Note is empty",
+    "label_please_login" : "Please login with your email and password",
+    "label_password" : "Password",
+    "label_confirm_password" : "Confirm password",
+    "label_login" : "Login",
+    "menu_edit_profile" : "Edit Profile",
+    "menu_profile" : "Profile",
+    "notification":"Notification",
+    "profile":"Profile",
+    "notification":"Notification",
+    "profile":"Profile"
+}
